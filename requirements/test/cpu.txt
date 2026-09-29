@@ -312,7 +312,7 @@ h11==0.16.0
     #   httpcore
     #   httpcore2
     #   uvicorn
-h2==4.3.0
+h2==4.4.1
     # via httpx
 harfile==0.5.0
     # via schemathesis
